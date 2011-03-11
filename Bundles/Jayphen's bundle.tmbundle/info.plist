@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Jayphen's bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>F8AB3699-4747-480E-A99C-AEA98754E1D0</string>
+		<string>5C5F7E09-67CB-4D68-9966-FE44229B014A</string>
+		<string>BB0DAB71-9577-4AC6-A574-FE7707BD3130</string>
+		<string>E5D82EB8-72DD-4A66-92B9-52AA8825133C</string>
+	</array>
+	<key>uuid</key>
+	<string>F9B69801-9849-473A-BB9B-B125566E6F1C</string>
+</dict>
+</plist>

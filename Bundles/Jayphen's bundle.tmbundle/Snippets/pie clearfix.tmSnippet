@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:farts}:after {
+	content: "\0020";
+	display:block;
+	height:0;
+	clear:both;
+	overflow:hidden;
+	visibility:hidden;
+}
+$1 {
+	*zoom:1;
+}</string>
+	<key>name</key>
+	<string>pie clearfix</string>
+	<key>tabTrigger</key>
+	<string>pie</string>
+	<key>uuid</key>
+	<string>FDDDAB1E-2270-40E9-A227-4D7483BC57FB</string>
+</dict>
+</plist>

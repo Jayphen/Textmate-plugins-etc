@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.input-group
+	%input#$1{:type =&gt; 'radio', :name =&gt; '$2', :value =&gt; '$3'}
+	%label{:for =&gt; '$1'} $4</string>
+	<key>name</key>
+	<string>radio</string>
+	<key>tabTrigger</key>
+	<string>radio</string>
+	<key>uuid</key>
+	<string>07142C70-3A95-4D16-9A0D-CC29CA7DDFE2</string>
+</dict>
+</plist>

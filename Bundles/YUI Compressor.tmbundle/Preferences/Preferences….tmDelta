@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>settings.shellVariables</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>TM_YUI_COMPRESSOR_LOCATION</string>
+				<key>value</key>
+				<string>/Users/jsimpson/Documents/lib/yuicompressor.jar</string>
+			</dict>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>173220B5-961F-4FD3-A377-436A3E0C8794</string>
+</dict>
+</plist>

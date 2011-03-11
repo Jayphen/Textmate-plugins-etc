@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.input-group
+	%label{:for =&gt; '${1}'} $2
+	%select#$1{:name =&gt; '$3'}
+		%option{:value =&gt; '$4'} $5</string>
+	<key>name</key>
+	<string>select</string>
+	<key>tabTrigger</key>
+	<string>select</string>
+	<key>uuid</key>
+	<string>E738FFD2-66F3-4CCB-BD4E-779CF7D05BC5</string>
+</dict>
+</plist>
